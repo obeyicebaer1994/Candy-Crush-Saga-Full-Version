@@ -240,4 +240,4 @@ This repository serves as the official landing page for Candy Crush Saga. The so
 **Get the most recent version of Candy Crush Saga today!**
 
 ---
-**Last updated:** 2026-09-18 07:53:23 UTC
+**Last updated:** 2026-09-18 12:37:01 UTC
